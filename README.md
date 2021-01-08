@@ -1,0 +1,2 @@
+# MachineHack
+MachineHack hackathon solutions
